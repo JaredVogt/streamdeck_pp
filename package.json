@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "@elgato-stream-deck/node": "^7.1.2",
+    "@elgato/streamdeck": "^1.2.1",
+    "node-hid": "^3.1.2",
+    "sharp": "^0.33.5"
+  },
+  "name": "studio",
+  "version": "1.0.0",
+  "main": "streamdeck.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
